@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Jerm Disorder]]></title>
-  <link href="http://jermul.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: General | Jerm Disorder]]></title>
+  <link href="http://jermul.github.com/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://jermul.github.com/"/>
   <updated>2013-03-25T18:53:26-07:00</updated>
   <id>http://jermul.github.com/</id>
@@ -18,7 +18,7 @@
     <link href="http://jermul.github.com/blog/2013/03/25/my-very-first-blog-article/"/>
     <updated>2013-03-25T18:24:00-07:00</updated>
     <id>http://jermul.github.com/blog/2013/03/25/my-very-first-blog-article</id>
-    <content type="html"><![CDATA[<p> It&#8217;s been a few months now, and I feel I have a confession to make: I have had a mistress, and her name is Ruby.<!-- more -->I spend day and night with her. I eat with her, I play with her, I work with her. Even when I&#8217;m not with Ruby, I am constantly thinking about her, even dreaming about her.</p>
+    <content type="html"><![CDATA[<p> It's been a few months now, and I feel I have a confession to make: I have had a mistress, and her name is Ruby.<!-- more -->I spend day and night with her. I eat with her, I play with her, I work with her. Even when I'm not with Ruby, I am constantly thinking about her, even dreaming about her.</p>
 
 <p>The best thing is that my wife totally supports it. The purpose of my blog is to detail my path to enlightenment of getting to know Ruby, and to create a website that will display my new found love.</p>
 ]]></content>
