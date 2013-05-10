@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My very first blog article"
+title: "Confessional"
 date: 2013-03-25 18:24
 comments: true
 categories: General
