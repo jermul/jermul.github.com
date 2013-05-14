@@ -4,7 +4,7 @@
   <title><![CDATA[Jerm Disorder]]></title>
   <link href="http://jermul.github.com/atom.xml" rel="self"/>
   <link href="http://jermul.github.com/"/>
-  <updated>2013-05-14T10:38:26-07:00</updated>
+  <updated>2013-05-14T11:53:20-07:00</updated>
   <id>http://jermul.github.com/</id>
   <author>
     <name><![CDATA[The Jerm]]></name>
@@ -14,13 +14,35 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Philosoraptor Says]]></title>
+    <link href="http://jermul.github.com/blog/2013/05/14/philosoraptor-says/"/>
+    <updated>2013-05-14T11:01:00-07:00</updated>
+    <id>http://jermul.github.com/blog/2013/05/14/philosoraptor-says</id>
+    <content type="html"><![CDATA[<p>I&#8217;m sorry, I lied to you all in my last blog entry&#8230;<!-- more--></p>
+
+<p>I told you that I was super persistent and super driven. Well, that&#8217;s not entirely true. The truth is, I am those things but only because I find programming so damn fun.</p>
+
+<p>I&#8217;ve never been terribly diligent. I haven&#8217;t made a New Years Resolution in over a decade because I know I most likely won&#8217;t keep it. I never stick to diets for very long. And, I still can&#8217;t dunk a basketball, even though I promised myself I one day would (still holding out hope on this one).</p>
+
+<p>And then along comes programming into my life. Lazy you say? <a href="http://pragprog.com/book/ltp2/learn-to-program">Chris Pine says to be proactively lazy!</a> What&#8217;s that? You&#8217;re a glutton? Gorge yourself on a cornucopia of knowledge that would make Thanksgivings itself blush:</p>
+
+<p><img src="http://i820.photobucket.com/albums/zz123/dragoon976/Blog/cornucopia.png">
+<small>Source: Ready set Rails</small></p>
+
+<p>Here&#8217;s the thing with me. If I really like something, it&#8217;s much easier to motivate myself to get through the tedious stuff to get to the awesome stuff. I&#8217;ll let my buddy Philosoraptor sum it up:</p>
+
+<p><img src="http://qkme.me/3uebau"></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Tealeaf Academy May Cohort]]></title>
     <link href="http://jermul.github.com/blog/2013/05/10/tealeaf-academy-may-cohort/"/>
     <updated>2013-05-10T00:16:00-07:00</updated>
     <id>http://jermul.github.com/blog/2013/05/10/tealeaf-academy-may-cohort</id>
     <content type="html"><![CDATA[<p>I recently joined a code boot-camp of sorts called Tealeaf Academy. My cohort began on May 4th and will run me about twelve weeks.</p>
 
-<p>Per the last live session of the course, some classmates asked me what resources I used to self-learn programming, so I will be posting them here.<!-- more --> Best of all, they&#8217;re all free! It&#8217;s amazing how many resources we have at our fingertips.</p>
+<p>Per the last live session of the course, some classmates asked me what resources I used to self-learn programming, so I will be posting them here&#8230;<!-- more --> Best of all, they&#8217;re all free! It&#8217;s amazing how many resources we have at our fingertips.</p>
 
 <p>I think a little background on me would be relevant because people should know that I am just an average guy. I&#8217;ve been familiar with computers since a young age (i&#8217;m now in my low 30s) but did <strong> not </strong> have any programming experience prior to mid January 13&#8217;. I took one C++ course in junior college that I dropped out of cause it was too hard. Since January, I have been self-teaching full time due to wanting a career change (I used to be an administrator in healthcare, where I was the &#8220;IT&#8221; guy).</p>
 
@@ -30,7 +52,10 @@
 
 <p>I will flatter myself by saying that I am super persistent and I am super driven. The beauty of it is that everybody else can be too, with enough demand to go around for everyone:</p>
 
-<p><img src="http://programarcadegames.com/chapters/forward/code_graphics2.png"></p>
+<p><img src="http://i820.photobucket.com/albums/zz123/dragoon976/Blog/code_graphics.png">
+<small>Computer Science Graduates vs. Jobs. Source: code.org</small>
+<img src="http://i820.photobucket.com/albums/zz123/dragoon976/Blog/code_graphics2.png">
+<small>Computer Science Job Outlook. Source: code.org</small></p>
 
 <p>I&#8217;m going to separate the list into three sections: General Programming, Ruby, and RoR (Ruby on Rails) and listed from top to bottom in each section for what I felt personally helped most. If you have zero programming experience, I highly suggest doing them in order. You can do the Ruby and GP sections simultaneously but leave RoR till you at least tried the other two for a couple weeks. Here are the lists:</p>
 
@@ -105,9 +130,20 @@
     <link href="http://jermul.github.com/blog/2013/03/25/Confessional/"/>
     <updated>2013-03-25T18:24:00-07:00</updated>
     <id>http://jermul.github.com/blog/2013/03/25/Confessional</id>
-    <content type="html"><![CDATA[<p> It&#8217;s been a few months now, and I feel I have a confession to make: I have had a mistress, and her name is Ruby.<!-- more --> I spend day and night with her. I eat with her, I play with her, I work with her. Even when I&#8217;m not with Ruby, I am constantly thinking about her, even dreaming about her.</p>
+    <content type="html"><![CDATA[<p>
+  It&#8217;s been a few months now, and I feel I have a confession to make: I have had a mistress, and her name is Ruby&#8230;<!-- more --> I spend day and night with her. I eat with her, I play with her, I work with her. Even when I&#8217;m not with Ruby, I am constantly thinking about her, even dreaming about her. 
+</p>
 
-<p>The best thing is that my wife totally supports it. The purpose of my blog is to detail my path to enlightenment of getting to know Ruby, and to create a website that will display my new found love. I thought about including the rails analogy as well, but we won&#8217;t go there.</p>
+
+<p>
+  The best thing is that my wife totally supports it.  
+</p>
+
+
+<p>
+    I thought about extending the analogy to Rails as well, but we won&#8217;t go there. I have decided dedicate myself to becoming a Ruby on Rails web developer. The purpose of my blog is to detail my path to enlightenment of getting to know Ruby and Rails, and to profess my love by documenting it.
+</p>
+
 ]]></content>
   </entry>
   
