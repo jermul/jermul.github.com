@@ -19,4 +19,4 @@ And then along comes programming into my life. Lazy you say? [Chris Pine says to
 
 Here's the thing with me. If I really like something, it's much easier to motivate myself to get through the tedious stuff to get to the awesome stuff. I'll let my buddy Philosoraptor sum it up:
 
-{% img http://qkme.me/3uebau %}
+{% img http://i820.photobucket.com/albums/zz123/dragoon976/Blog/philosoraptor.jpg %}
