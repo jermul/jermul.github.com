@@ -4,7 +4,7 @@
   <title><![CDATA[Jerm Disorder]]></title>
   <link href="http://jermul.github.com/atom.xml" rel="self"/>
   <link href="http://jermul.github.com/"/>
-  <updated>2013-05-14T10:35:55-07:00</updated>
+  <updated>2013-05-14T10:38:26-07:00</updated>
   <id>http://jermul.github.com/</id>
   <author>
     <name><![CDATA[The Jerm]]></name>
@@ -39,11 +39,20 @@
 
 <p>
   Stanford CS106A Programming Methodology – Truly engaging course. Often considered a weeder class, but if you can get through this course then I&#8217;m pretty sure you can get through anything else on this list.
+</p>
 
+
+<p>
   MIT Intro to Computer Science – good overview of the how and why we do programming.
+</p>
 
+
+<p>
   Natashatherobot - A lot of the links here come from this blog. A real person sharing her trials and tribulations learning to code. Very humble, yet very inspiring and ambitious. Makes you feel good about your choice to learn to code.
-  
+</p>
+
+
+<p> 
   Udacity.com – Video courses online. Interactive online college classes. Everything from general CS, to web development, to physics courses.
 </p>
 
@@ -53,11 +62,20 @@
 
 <p>
   Codecademy.com – Amazing resources for general understanding of multiple languages. I found the javascript courses were constructed better than the Ruby courses, but ymmv. 
+</p>
 
+
+<p>
   Rubymonk – teaching then quizzing, with increasing difficulty. One of my favorites. Practice the flow of programming.
+</p>
 
+
+<p>
   RPCFN, Ruby Koans, Codequizzes – ruby quizzes to challenge yourself.
+</p>
 
+
+<p>
   Rubythehardway – ruby exercises that emphasizes repetition and practice. Some say that since it was rewritten from a different language, it misses some of Ruby&#8217;s special nuances. I still found it helpful.
 </p>
 
@@ -67,9 +85,15 @@
 
 <p>
   Michael Hartl&#8217;s tutorial – although a lot will recommend this one right away, I only suggest you tackle it with your own project in mind and with a solid foundation in Ruby first. Challenge yourself when doing it, as otherwise its very easy to fall into just copying code and not understanding it. I personally started with this, but if I could do it again I wouldn&#8217;t, although I still refer to it all the time.
+</p>
 
+
+<p>
   Railscasts – Video tutorials mostly involving the implementation of gems. Invaluable for all sorts of RoR practices as well. 
+</p>
 
+
+<p>
   Rails for Zombies – They recently did a pretty big makeover and I keep intending to go back, but haven&#8217;t had the time. 
 </p>
 
