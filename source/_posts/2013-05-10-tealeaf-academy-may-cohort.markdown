@@ -8,7 +8,7 @@ categories:
 
 I recently joined a code boot-camp of sorts called Tealeaf Academy. My cohort began on May 4th and will run me about twelve weeks.
 
-Per the last live session of the course, some classmates asked me what resources I used to self-learn programming, so I will be posting them here.<!-- more --> Best of all, they're all free! It's amazing how many resources we have at our fingertips.
+Per the last live session of the course, some classmates asked me what resources I used to self-learn programming, so I will be posting them here...<!-- more --> Best of all, they're all free! It's amazing how many resources we have at our fingertips.
 
 I think a little background on me would be relevant because people should know that I am just an average guy. I've been familiar with computers since a young age (i'm now in my low 30s) but did <strong> not </strong> have any programming experience prior to mid January 13'. I took one C++ course in junior college that I dropped out of cause it was too hard. Since January, I have been self-teaching full time due to wanting a career change (I used to be an administrator in healthcare, where I was the "IT" guy).
 
@@ -18,7 +18,10 @@ And all you need to get good enough for that level is to show you're persistent 
 
 I will flatter myself by saying that I am super persistent and I am super driven. The beauty of it is that everybody else can be too, with enough demand to go around for everyone: 
 
-{% img http://programarcadegames.com/chapters/forward/code_graphics2.png %}
+{% img http://i820.photobucket.com/albums/zz123/dragoon976/Blog/code_graphics.png %}
+<small>Computer Science Graduates vs. Jobs. Source: code.org</small>
+{% img http://i820.photobucket.com/albums/zz123/dragoon976/Blog/code_graphics2.png %}
+<small>Computer Science Job Outlook. Source: code.org</small>
  
 I'm going to separate the list into three sections: General Programming, Ruby, and RoR (Ruby on Rails) and listed from top to bottom in each section for what I felt personally helped most. If you have zero programming experience, I highly suggest doing them in order. You can do the Ruby and GP sections simultaneously but leave RoR till you at least tried the other two for a couple weeks. Here are the lists:
 
