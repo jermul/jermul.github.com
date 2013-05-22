@@ -4,7 +4,7 @@
   <title><![CDATA[Jerm Disorder]]></title>
   <link href="http://jermul.github.com/atom.xml" rel="self"/>
   <link href="http://jermul.github.com/"/>
-  <updated>2013-05-14T12:03:47-07:00</updated>
+  <updated>2013-05-21T17:50:00-07:00</updated>
   <id>http://jermul.github.com/</id>
   <author>
     <name><![CDATA[The Jerm]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Newby perspective on Rails vs. Node.js]]></title>
+    <link href="http://jermul.github.com/blog/2013/05/21/my-newby-perspective-on-rails-vs-node-dot-js/"/>
+    <updated>2013-05-21T17:28:00-07:00</updated>
+    <id>http://jermul.github.com/blog/2013/05/21/my-newby-perspective-on-rails-vs-node-dot-js</id>
+    <content type="html"><![CDATA[<p>For a time I was looking into Node.js vs. Rails because Node was/is hailed as the next best thing&#8230;<!-- more --> Yet AFAIK the <em><a href="http://venturebeat.com/2012/08/21/node-infographic/">debate rages on</a></em> amongst people much more knowledgeable than I(check the comments section). As a beginning developer, I came to believe that I would need experience in both to make a fair assessment for myself.</p>
+
+<p>It&#8217;s like the debate on luxury cars; is a Lamborghini better than a Ferrari? I&#8217;m sure they each out-perform the other in certain tests. But only each individual person can determine for themselves which aspects they more heavily weigh, to form their opinion on which car is better.</p>
+
+<p> Unfortunately for me, I can&#8217;t afford both a Lambo and a Ferrari to compare. I can&#8217;t currently afford to learn Node.js right now either. That would be a lot of &#8216;Going Sideways&#8217; as my instructor Chris Lee from Tealeaf Academy would say. I would risk learning redundantly before I was even fully comfortable with the Rails framework.</p>
+
+<p>Better for me to learn a single language and framework and build a comprehensive skill set. At the same time, I am focused on building a strong foundation in Computer Science mentality. But, as long as I have that solid foundation, I can later add to my skill set with any new languages, modules, libraries, frameworks, etc. as required.</p>
+
+<p>And for the record, Ferraris are better than Lambos.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Philosoraptor Says]]></title>
